@@ -31,7 +31,7 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Build
-      run: hugo --cleanDestinationDir --forceSyncStatic --gc --ignoreCache --minify -t even
+      run: hugo --minify
       
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
