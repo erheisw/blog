@@ -26,4 +26,4 @@ categories: ["重构"]
 
 由于书中的内容是由一个个细节构成，所以我自己整理成了一张思维导图，便于理解记忆。
 
-![CleanCodeMind](/media/CleanCode.png
+![CleanCodeMind](/media/CleanCode.png)
