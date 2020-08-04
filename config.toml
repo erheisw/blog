@@ -129,11 +129,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     warn = 730              # Display warning if the last modified time is more than these days ago.    # 如果文章最后更新于这天数之前，显示警告
 
   [params.utterances]       # https://utteranc.es/
-    enable = true
     owner = "erheisw"
     repo = "blog-comments"               # The repo to store comments
-    issueTerm = "title"
-    theme = "github-light"
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
