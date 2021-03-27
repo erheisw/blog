@@ -1,3 +1,3 @@
 # Blog
 
-[Visit My Blog](https://www.erheis.com)
+[Visit My Blog](https://erheisw.github.io)
