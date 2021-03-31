@@ -1,11 +1,11 @@
 ---
 title: "sync.Once源码解读"
 date: 2020-08-03T17:48:14+08:00
-draft: false
+draft: true
 description: "sync.Once源码解读"
-keywords: ["Go","sync","单例模式",]
-tags: ["Go","sync","单例模式","atomic"]
-categories: ["Go源码"]
+keywords: ["Go","sync.Once","单例模式",]
+tags: ["sync.Once","设计模式","Go","源码"]
+categories: ["技术"]
 ---
 最近开始看设计模式相关的内容，同时也在寻找 **Golang** 相关的技术岗位，就想如何用 **Go** 语言实现呢？结合自己之前常用的技术栈 **.NET**，实现了粗糙版的单例模式，本着学习的目的，用**Google**搜到了比较好的实现方式 **sync.Once**。照着例子敲了敲，运行结果预期一致。出于对**sync.Once**实现的好奇，于是乎就研究了下其实现源码。
 <!--more-->

@@ -4,8 +4,8 @@ date: 2020-07-21T14:58:31+08:00
 draft: false
 description: "读书笔记"
 keywords: ["代码","重构","Clean Code","代码整洁之道"]
-tags: ["代码","重构"]
-categories: ["重构"]
+tags: ["设计","重构"]
+categories: ["技术","笔记"]
 ---
 最近还没找到工作，趁这个时间读了几本之前买过的书，技术类与非技术类的都包括。今天想聊的是 **Robert.C.Martin**大叔写的这本《Clean Code》。
 <!--more-->
