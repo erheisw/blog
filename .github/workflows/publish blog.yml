@@ -39,4 +39,4 @@ jobs:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         external_repository: erheisw/erheisw.github.io
         publish_branch: master
-        cname: 
+        cname: heyel.xyz
