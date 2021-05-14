@@ -1,3 +1,3 @@
 # Blog
 
-[Visit My Blog](https://heyelhao.github.io)
+[Visit My Blog](http://heyelhao.github.io)
