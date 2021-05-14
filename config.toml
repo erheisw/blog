@@ -1,7 +1,7 @@
 baseURL = "https://heyel.xyz/"
 languageCode = "zh-CN"
 defaultContentLanguage = "zh-cn"
-title = "Shawn的木屋"
+title = "heyel的驿站"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -152,7 +152,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/images/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    c-twitter = "https://twitter.com/erheishao"
+    c-twitter = "https://twitter.com/heyelhao"
     g-github = "https://github.com/erheisw"
 
 
